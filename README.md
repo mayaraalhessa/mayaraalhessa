@@ -2,20 +2,56 @@
 
 <p align="justify"> Olá, sou a Mayara Alhessa, amante de tecnologia e engenharia.
 
-  ## Formação e Aprendizado
-  Sou engenheira de produção, técnica em logística e técnica em informática. Atualmente, sou estudante do curso de <i>Desenvolvedor Front-End</i>, projeto desenvolvido em parceria entre a <strong>Ford Motor Company Fund</strong> e o <strong>Senai-SP<strong> [FORD INICIA TERCEIRA TURMA DO PROGRAMA DE CAPACITAÇÃO PROFISSIONAL EM TECNOLOGIA](https://media.ford.com/content/fordmedia/fsa/br/pt/news/2024/01/ford--enter--inicia-terceira-turma-do-programa-de-capacitacao-pr.html)
+ ![gatinho digitando](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-2.gif)
 
-![TURMA FORD <ENTER>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedia.ford.com%2Fcontent%2Ffordmedia%2Ffsa%2Fbr%2Fpt%2Fnews%2F2024%2F01%2Fford--enter--inicia-terceira-turma-do-programa-de-capacitacao-pr.html&psig=AOvVaw1iyV8vg-e6i-rptZitVWwL&ust=1708521472161000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiVz7qBuoQDFQAAAAAdAAAAABAU)
+  ## Formação e Aprendizado
+  Sou engenheira de produção, técnica em logística e técnica em informática. Atualmente, sou estudante do curso de <i>Desenvolvedor Front-End</i>, projeto desenvolvido em parceria entre a <strong>Ford Motor Company Fund</strong> e o <strong>Senai-SP<strong>
+
+   [FORD INICIA TERCEIRA TURMA DO PROGRAMA DE CAPACITAÇÃO PROFISSIONAL EM TECNOLOGIA](https://media.ford.com/content/fordmedia/fsa/br/pt/news/2024/01/ford--enter--inicia-terceira-turma-do-programa-de-capacitacao-pr.html)
+![TURMA FORD ENTER](https://omecanico.com.br/wp-content/uploads/2024/02/FordEnter-TerceiraTurma.jpg)
 
 ### Linguagens aprendidas: 
-* Markdown(linguagem de marcação)
-* HTML (linguagem de programação)
-* CSS (Linguagem de estilização)
-* PowerShell (terminal Windows)
-* Bash (Terminal Linux)
-* Git (Sistema de Controle de Versionamento)
-* GitHub (plataforma de hospedagem de código-fonte)
-  
+* Markdown (linguagem de marcação);
+* HTML (linguagem de programação);
+* CSS (Linguagem de estilização);
+* PowerShell (terminal Windows);
+* Bash (Terminal Linux);
+* Git (Sistema de Controle de Versionamento);
+* GitHub (plataforma de hospedagem de código-fonte).
+
+### tags HTML aprendidas:
+
+```html
+<!DOCTYPE html>
+ <html lang="pt-BR">
+  <head>
+   <meta charset="UTF-8">
+    <title>Minha página</title>
+  </head>
+         <body>
+               <h1>Minha página</h1>
+                     <p>Meu parágrafo</p>
+         </body>
+</html>
+```
+A tag `<!DOCTYPE html>` indica a versão do HTML no documento.
+A tag `<html lang="pt-BR">` indica o início do documento HTML. O atributo `lang="pt-BR"` indica o idioma da página.
+A tag `<head>`  indica onde estão as meta informações da página.
+A tag `<meta charset="UTF-8">` define o conjunto de caracteres que será utilizado para decodificar a página.
+A tag `<title>` marca o título do documento no navegador (barra de tpitulo ou aba).
+A tag `<body>` marca o conteúdo que será apresentado ao usuário. É o "corpo" da página.
+A tag `<h1>` marca o título de importância nível 1(mais importante) exibido na página.
+A tag `<p>` marca um parágrafo.
+
+![Códigos](https://docplayer.com.br/docs-images/45/18135300/images/page_2.jpg)
+###### <strong>Códigos HTML</strong>
+
+### Tabela de proficiência:
+Idioma | Nível
+:--------: | :----------:
+Inglês | Intermediário (B2)
+Espanhol | Básico (A2)
+Francês | Básico (A2)
 ### 📫 Para contato: e-mail:eng.mayaraalhessa@gmail.com
-
-
+>*“Uma máquina consegue fazer o trabalho de 50 homens ordinários.*
+>*Nenhuma máquina consegue fazer o trabalho de um homem extraordinário”. Hubbard, Elbert*
